@@ -1,0 +1,91 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #e4e4e4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.background-logo {
+  background-image: url('images/lds.webp'); /* Adjust path if needed */
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 1600px auto; /* Resize as needed */
+  opacity: 0.8; /* Low opacity for watermark effect */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.card {
+  width: 300px;
+  background: linear-gradient(to bottom, #ffffff, #f8f8f8);
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  overflow: hidden;
+  border: 5px solid #e91e63;
+  position: relative;
+  z-index: 1;
+}
+
+.card-header {
+  background: linear-gradient(135deg, #e91e63, #9c27b0);
+  padding: 20px;
+  padding-bottom: 60px;
+  color: white;
+  position: relative;
+  z-index: 2;
+}
+
+.card-header h1 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  border: 5px solid white;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: -40px;
+  background: white;
+  z-index: 2;
+  position: relative;
+}
+
+.card-content {
+  padding: 20px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.card-content h2 {
+  margin: 10px 0 5px;
+  font-size: 20px;
+  color: #111;
+  font-weight: bold;
+}
+
+.card-content h3 {
+  margin: 0 0 10px;
+  color: #e91e63;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.card-content p {
+  font-size: 14px;
+  color: #444;
+  margin: 4px 0;
+}
