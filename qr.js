@@ -429,6 +429,13 @@ const participants = {
     barrio: "Puerto Viejo"
   },
 
+  auro344: {
+    name: "Aurora Campos",
+    age: "12",
+    phone: "89896869",
+    barrio: "Guacimo"
+  },
+
 };
 
 
