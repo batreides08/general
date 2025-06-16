@@ -435,7 +435,12 @@ const participants = {
     phone: "89896869",
     barrio: "Guacimo"
   },
-
+livna945: {
+    name: "Livy Nahomy Vásquez Arias",
+    age: "14",
+    phone: "71762139",
+    barrio: "Puerto Viejo"
+  },
 };
 
 
