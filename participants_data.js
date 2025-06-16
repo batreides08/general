@@ -1,20 +1,5 @@
-// data.js
 const participants = {
-  juan123: {
-    name: "Juan Pérez",
-    age: 16,
-    phone: "8888-5555",
-    barrio: "La Rita",
-    
-  },
-  maria456: {
-    name: "María González",
-    age: 17,
-    phone: "8888-4444",
-    barrio: "La Rita",
-  },
-  // add more participants here
- p1: {
+  p1: {
     name: "Keyshany Picado Chamorro",
     age: 15,
     phone: "6111 0440",
@@ -58,7 +43,7 @@ const participants = {
   },
   p8: {
     name: "Nahomi Silva Cajina",
-    age: 11,
+    age: 11 (cumpliré este año los 12),
     phone: "70927048",
     barrio: "Cariari"
   },
@@ -76,7 +61,7 @@ const participants = {
   },
   p11: {
     name: "Randy Sebastián Solano montero",
-    age: 11,
+    age: 11 (cumpliré este año los 12),
     phone: "63874836",
     barrio: "Cariari"
   },
@@ -250,7 +235,7 @@ const participants = {
   },
   p40: {
     name: "Samantha Nieto Brenes",
-    age: 11,
+    age: 11 (cumpliré este año los 12),
     phone: "N/A",
     barrio: "Limon"
   },
@@ -418,7 +403,7 @@ const participants = {
   },
   p68: {
     name: "Yeilin Nicol Gómez Diaz",
-    age: 11,
+    age: 11 (cumpliré este año los 12),
     phone: "N/A",
     barrio: "Limon"
   },
@@ -680,7 +665,4 @@ const participants = {
     phone: "N/A",
     barrio: "La Rita"
   },
-
 };
-
-
