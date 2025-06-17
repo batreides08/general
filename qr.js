@@ -441,6 +441,230 @@ livna945: {
     phone: "71762139",
     barrio: "Puerto Viejo"
   },
+
+
+  valcam517: {
+    name: "Valeska Camacho Sequeira",
+    age: 14,
+    phone: "6120 5426",
+    barrio: "La Rita"
+  },
+  hasosm963: {
+    name: "Haslling Osmara Padilla Salinas",
+    age: 13,
+    phone: "72459357",
+    barrio: "La Rita"
+  },
+  noerod942: {
+    name: "Noemi Rodríguez Baltodano",
+    age: 12,
+    phone: "83487842",
+    barrio: "Pococi"
+  },
+  danval509: {
+    name: "Dana Valeria Loaiza Alfaro",
+    age: 16,
+    phone: "62710705",
+    barrio: "Pococi"
+  },
+  shaher561: {
+    name: "Shayra Hernández Valverde",
+    age: 15,
+    phone: "60422606",
+    barrio: "Pococi"
+  },
+  evocas296: {
+    name: "Evony Castillo",
+    age: 12,
+    phone: "61792470",
+    barrio: "Pococi"
+  },
+  nicval559: {
+    name: "Nickole Valverde Delgado",
+    age: 15,
+    phone: "87423325",
+    barrio: "Pococi"
+  },
+  abbvar88: {
+    name: "Abbie Vargas cabezas",
+    age: 13,
+    phone: "70316204",
+    barrio: "Cariari"
+  },
+  derger907: {
+    name: "Derek Gerardo Ortiz Flores",
+    age: 12,
+    phone: "+506 6141 4553",
+    barrio: "Cariari"
+  },
+  lucbet294: {
+    name: "Lucia Betsua Mayorga Flores",
+    age: 14,
+    phone: "+506 6272 7634",
+    barrio: "Cariari"
+  },
+  stapam383: {
+    name: "Stacy Pamela Ortiz Flores",
+    age: 14,
+    phone: "87906290",
+    barrio: "Cariari"
+  },
+  nembea703: {
+    name: "Nemesis Beatriz Madrigal Flores",
+    age: 16,
+    phone: "61298100",
+    barrio: "Cariari"
+  },
+  crisam911: {
+    name: "Cristhian Samuel Robles Sequeira",
+    age: 15,
+    phone: "63371197",
+    barrio: "Cariari"
+  },
+  merpal393: {
+    name: "Merilly palacios montoya",
+    age: 16,
+    phone: "63158955",
+    barrio: "Cariari"
+  },
+  cambre883: {
+    name: "Camila brenes price",
+    age: 17,
+    phone: "N/A",
+    barrio: "Cariari"
+  },
+  ámbbre576: {
+    name: "Ámbar brenes price",
+    age: 16,
+    phone: "N/A",
+    barrio: "Cariari"
+  },
+  sankha575: {
+    name: "Santiago Khaled Peña Perez",
+    age: 11,
+    phone: "61012400",
+    barrio: "Cariari"
+  },
+  greper701: {
+    name: "Greivin Perez Solano",
+    age: 16,
+    phone: "N/A",
+    barrio: "Limon"
+  },
+  jancar967: {
+    name: "Janmarko Carrillo Muñoz",
+    age: 16,
+    phone: "87385307",
+    barrio: "Limon"
+  },
+  josher904: {
+    name: "Joseph Herron Hartley",
+    age: 16,
+    phone: "88394012",
+    barrio: "Limon"
+  },
+  kenleg654: {
+    name: "Kendrick Legister Tharpe",
+    age: 15,
+    phone: "62057866",
+    barrio: "Limon"
+  },
+  rolmad469: {
+    name: "Rolando Madrigal Ortiz",
+    age: 16,
+    phone: "86358882",
+    barrio: "Limon"
+  },
+  samnie351: {
+    name: "Samantha Nieto Brenes",
+    age: 11,
+    phone: "N/A",
+    barrio: "Limon"
+  },
+  sarmar216: {
+    name: "Saray Maria Gomez Diaz",
+    age: 13,
+    phone: "N/A",
+    barrio: "Limon"
+  },
+  sebnie408: {
+    name: "Sebastian Nieto Brenes",
+    age: 14,
+    phone: "N/A",
+    barrio: "Limon"
+  },
+  sofxim913: {
+    name: "Sofía ximena Flores Aguilar",
+    age: 13,
+    phone: "8941 2590",
+    barrio: "Limon"
+  },
+  valgur552: {
+    name: "Valentina Gurthrie Ocon",
+    age: 15,
+    phone: "88993163",
+    barrio: "Limon"
+  },
+  yeinic368: {
+    name: "Yeilin Nicol Gómez Diaz",
+    age: 11,
+    phone: "N/A",
+    barrio: "Limon"
+  },
+  yeipac294: {
+    name: "Yeirel Pacheco Leal",
+    age: 13,
+    phone: "6354 5213",
+    barrio: "Limon"
+  },
+  yosnah264: {
+    name: "Yoselin Nahomi Gómez Diaz",
+    age: 16,
+    phone: "N/A",
+    barrio: "Limon"
+  },
+  anggab669: {
+    name: "Angel Gabriel Castro Monge",
+    age: 12,
+    phone: "N/A",
+    barrio: "Limon"
+  },
+  brirod441: {
+    name: "Britany Rodríguez Baltodano",
+    age: 17,
+    phone: "61558825",
+    barrio: "Limon"
+  },
+  sulcub721: {
+    name: "Sulin Cubillo Aviles",
+    age: 16,
+    phone: "N/A",
+    barrio: "Siquirres"
+  },
+  sofcub512: {
+    name: "Sofia Cubillo Aviles",
+    age: 18,
+    phone: "N/A",
+    barrio: "Siquirres"
+  },
+  jorcub432: {
+    name: "Jordan Cubillo Aviles",
+    age: 15,
+    phone: "N/A",
+    barrio: "Siquirres"
+  },
+  mondom856: {
+    name: "Montserrat Dominguez Urbina",
+    age: 13,
+    phone: "N/A",
+    barrio: "Siquirres"
+  },
+  nascub676: {
+    name: "Nashly Cubero Simpson",
+    age: 12,
+    phone: "N/A",
+    barrio: "Siquirres"
+  },
 };
 
 
