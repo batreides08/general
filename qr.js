@@ -672,6 +672,50 @@ livna945: {
     phone: "N/A",
     barrio: "La Rita"
   },
+
+  andjansan108: {
+  name: "Andy Jafet Sánchez Rojas",
+  age: 17,
+  phone: "N/A",
+  barrio: "Puerto Viejo"
+},
+bragarc108: {
+  name: "Brando García Palma",
+  age: 14,
+  phone: "N/A",
+  barrio: "Puerto Viejo"
+},
+luiherten109: {
+  name: "Luis Hernández Tenorio",
+  age: 14,
+  phone: "N/A",
+  barrio: "Puerto Viejo"
+},
+tarpercas110: {
+  name: "Tarron Peraza Castillo",
+  age: 16,
+  phone: "63500731",
+  barrio: "Siquirres"
+},
+isasolmon111: {
+  name: "Isaac Solano Montero",
+  age: 12,
+  phone: "71417979",
+  barrio: "Cariari"
+},
+ransolmon112: {
+  name: "Randy Solano Montero",
+  age: 11,
+  phone: "N/A",
+  barrio: "Cariari"
+},
+pedarbdia113: {
+  name: "Pedro Arboleda Diaz",
+  age: 17,
+  phone: "N/A",
+  barrio: "Siquirres"
+}
+
   
 };
 
