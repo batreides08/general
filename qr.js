@@ -729,7 +729,14 @@ joibar453: {
   age: 17,
   phone: "N/A",
   barrio: "Pococi"
-} 
+},
+
+taydan455: {
+  name: "Tayron Daniel Sibaja",
+  age: 12,
+  phone: "N/A",
+  barrio: "Pococi"
+}, 
   
 };
 
