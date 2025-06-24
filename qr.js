@@ -376,7 +376,7 @@ const participants = {
   },
   kereli711: {
     name: "Lian Benjamin Zuniga",
-    age: "N/A",
+    age: "12",
     phone: "N/A",
     barrio: "Pococi"
   },
