@@ -736,7 +736,21 @@ taydan455: {
   age: 12,
   phone: "N/A",
   barrio: "Pococi"
-}, 
+  }, 
+
+eithmat232: {
+  name: "Eithan Matarrita",
+  age: 13,
+  phone: "N/A",
+  barrio: "Cariari"
+  }, 
+
+saidque344: {
+  name: "Said Quesada Atencio",
+  age: 11,
+  phone: "N/A",
+  barrio: "Cariari"
+  },
   
 };
 
