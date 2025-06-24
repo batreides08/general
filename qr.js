@@ -714,14 +714,15 @@ pedarbdia113: {
   age: 17,
   phone: "N/A",
   barrio: "Siquirres"
-}
+},
 
 andram224: {
   name: "Andres Ramirez Quiros",
   age: 15,
   phone: "N/A",
   barrio: "Cariari"
-  } 
+
+}, 
 
 joibar453: {
   name: "Joiner Barboza Castillo",
