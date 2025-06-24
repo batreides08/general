@@ -375,7 +375,7 @@ const participants = {
     barrio: "Siquirres"
   },
   kereli711: {
-    name: "Kerry Elian",
+    name: "Lian Benjamin Zuniga",
     age: "N/A",
     phone: "N/A",
     barrio: "Pococi"
