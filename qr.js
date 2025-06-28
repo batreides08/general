@@ -751,6 +751,21 @@ saidque344: {
   phone: "N/A",
   barrio: "Cariari"
   },
+
+
+lausie445: {
+  name: "Lauren Sierra",
+  age: 15,
+  phone: "N/A",
+  barrio: "Guapiles"
+  },
+
+jorand677: {
+  name: "Jorge Andres Delgado",
+  age: 13,
+  phone: "N/A",
+  barrio: "Guapiles"
+  },
   
 };
 
